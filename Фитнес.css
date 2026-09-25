@@ -127,7 +127,7 @@ section .content {
 }
   
 section .text {
-  width: 100%;
+  width: 90%;
 }
   
 .leveler {
